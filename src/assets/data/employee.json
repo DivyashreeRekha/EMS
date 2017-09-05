@@ -1,0 +1,23 @@
+[
+    
+    {
+        "id":"100",
+        "name":"Divya",
+        "location":"Rourkela",
+        "gender":"F"
+        },
+        {
+        "id":"101",
+        "name":"Amit",
+        "location":"Bhubneswar",
+        "gender":"M"
+        },
+        {
+         "id":"102",
+         "name":"Sahithi",
+        "location":"Vijayawada",
+        "gender":"F"
+        }
+        
+]
+   
